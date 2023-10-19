@@ -17,16 +17,16 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        不付费收益永久免费
+        本脚本免费使用，不进行付费售卖
       </>
     ),
   },
   {
-    title: '(∪.∪ )...zzz',
+    title: '(∪.∪ )',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        
+        ...zzz
       </>
     ),
   },
