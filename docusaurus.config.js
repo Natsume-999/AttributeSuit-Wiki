@@ -66,9 +66,20 @@ const config = {
         },
         hideOnScroll: false,
         items: [
+          {
+            type: 'doc',
+            docId: 'intro',
+            position: 'left',
+            label: '开始',
+          },
           // 搜索框
           {
             type: 'search',
+            position: 'left',
+          },
+          {
+            href: 'https://github.com/ZeroExact/Multicraft-Wiki',
+            label: 'GitHub',
             position: 'right',
           },
           {
