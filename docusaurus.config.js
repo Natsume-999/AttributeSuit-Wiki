@@ -78,11 +78,6 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://github.com/Natsume-999/AttributeSuit-Wiki',
-            label: 'GitHub',
-            position: 'right',
-          },
-          {
             type: 'localeDropdown',
             position: 'right',
           },
@@ -93,29 +88,29 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: '文档',
+            title: '深入文档',
             items: [
               {
                 label: '开始',
-                to: '/intro',
+                to: 'https://natsume-999.github.io/AttributeSuit-Wiki/intro',
               },
             ],
           },
           {
-            title: '交流',
+            title: '联系我',
             items: [
               {
-                label: 'QQ群',
+                label: '企鹅号',
                 href: 'https://jq.qq.com/?_wv=1027&k=QKurhX6E',
               },
             ],
           },
           {
-            title: '插件发布',
+            title: '',
             items: [
               {
-                label: 'GitHub',
-                href: 'https://github.com/Neige7/Wiki-Template',
+                label: '',
+                href: '',
               },
             ],
           },
