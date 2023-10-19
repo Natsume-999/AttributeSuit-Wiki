@@ -66,12 +66,6 @@ const config = {
         },
         hideOnScroll: false,
         items: [
-          {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: '开始',
-          },
           // 搜索框
           {
             type: 'search',
