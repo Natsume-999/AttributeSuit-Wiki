@@ -105,15 +105,6 @@ const config = {
               },
             ],
           },
-          {
-            title: '',
-            items: [
-              {
-                label: '',
-                href: '',
-              },
-            ],
-          },
         ],
         // 底部版权信息
         copyright: `Copyright  ${new Date().getFullYear()} Natsume-999, All Rights Reserved.`,
