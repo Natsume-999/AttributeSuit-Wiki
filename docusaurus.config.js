@@ -59,7 +59,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Wiki-Template',
+        title: 'AttributeSuit-Wiki',
         logo: {
           alt: 'Logo',
           src: 'img/logo.svg',
@@ -121,7 +121,7 @@ const config = {
           },
         ],
         // 底部版权信息
-        copyright: `Copyright  ${new Date().getFullYear()} Neige, All Rights Reserved.`,
+        copyright: `Copyright  ${new Date().getFullYear()} Natsume-999, All Rights Reserved.`,
       },
       // 深浅主题
       prism: {
