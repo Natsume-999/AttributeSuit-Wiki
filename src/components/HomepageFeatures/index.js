@@ -2,7 +2,35 @@ import React from 'react';
 import clsx from 'clsx';
 import styles from './styles.module.css';
 
-const FeatureList = [];
+const FeatureList = [
+  {
+    title: '正在完善',
+    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    description: (
+      <>
+        完善正在
+      </>
+    ),
+  },
+  {
+    title: '正在完善',
+    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    description: (
+      <>
+        完善正在
+      </>
+    ),
+  },
+  {
+    title: '正在完善',
+    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    description: (
+      <>
+        完善正在
+      </>
+    ),
+  },
+];
 
 function Feature({Svg, title, description}) {
   return (
