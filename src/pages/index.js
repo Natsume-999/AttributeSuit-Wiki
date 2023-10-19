@@ -30,7 +30,7 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`AttributeSuit Wiki`}
+      title={`属性套装`}
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
       <main>
