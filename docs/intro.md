@@ -9,6 +9,6 @@ sidebar_position: 1
 
 # 兼容
 
-兼容 Spigot 或 PaperSpigot 核心。
-适配 1.12.2 - 1.19.2 版本。  
+兼容 Spigot 或 PaperSpigot 核心。  
+适配 1.12.2 - 1.19.2 版本。    
 
