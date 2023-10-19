@@ -88,7 +88,7 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: '查文档',
+            title: '查询文档',
             items: [
               {
                 label: '跳转主页',
