@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Wiki-Template',
-  tagline: 'Docusaurus 插件文档模板',
+  title: 'AttributeSuit',
+  tagline: '基于 AttributePlus 3x 套装',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
