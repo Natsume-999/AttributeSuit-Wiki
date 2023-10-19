@@ -78,11 +78,6 @@ const config = {
             position: 'left',
           },
           {
-            href: 'https://github.com/ZeroExact/Multicraft-Wiki',
-            label: 'GitHub',
-            position: 'right',
-          },
-          {
             type: 'localeDropdown',
             position: 'right',
           },
