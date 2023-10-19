@@ -92,7 +92,7 @@ const config = {
             items: [
               {
                 label: '跳转主页',
-                to: 'https://natsume-999.github.io/AttributeSuit-Wiki/intro',
+                to: '/intro',
               },
             ],
           },
