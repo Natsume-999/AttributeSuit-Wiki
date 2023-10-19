@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'AttributeSuit Wiki',
+  title: 'AttributeSuit',
   tagline: '基于 AttributePlus 3x 套装',
   favicon: 'img/favicon.ico',
 
