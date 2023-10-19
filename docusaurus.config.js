@@ -88,10 +88,10 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: '深入文档',
+            title: '查文档',
             items: [
               {
-                label: '开始',
+                label: '跳转主页',
                 to: 'https://natsume-999.github.io/AttributeSuit-Wiki/intro',
               },
             ],
