@@ -2,35 +2,7 @@ import React from 'react';
 import clsx from 'clsx';
 import styles from './styles.module.css';
 
-const FeatureList = [
-  {
-    title: ' ',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
-    description: (
-      <>
-        
-      </>
-    ),
-  },
-  {
-    title: ' ',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
-    description: (
-      <>
-         
-      </>
-    ),
-  },
-  {
-    title: ' ',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
-    description: (
-      <>
-         
-      </>
-    ),
-  },
-];
+const FeatureList = [];
 
 function Feature({Svg, title, description}) {
   return (
