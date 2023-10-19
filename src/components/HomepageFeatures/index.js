@@ -4,29 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: '正在完善',
+    title: '帮助须知',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        完善正在
+        保持良好的素质是我们的基本原则
       </>
     ),
   },
   {
-    title: '正在完善',
+    title: '免费使用',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        完善正在
+        不付费收益永久免费
       </>
     ),
   },
   {
-    title: '正在完善',
+    title: '(∪.∪ )...zzz',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        完善正在
+        
       </>
     ),
   },
