@@ -11,15 +11,15 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://neige7.github.io',
+  url: 'https://Natsume-999.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/Wiki-Template/',
+  baseUrl: '/AttributeSuit-Wiki/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'neige7', // Usually your GitHub org/user name.
-  projectName: 'Wiki-Template', // Usually your repo name.
+  organizationName: 'Natsume-999', // Usually your GitHub org/user name.
+  projectName: 'AttributeSuit-Wiki', // Usually your repo name.
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
@@ -78,7 +78,7 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://github.com/Neige7/Wiki-Template',
+            href: 'https://github.com/Natsume-999/AttributeSuit-Wiki',
             label: 'GitHub',
             position: 'right',
           },
@@ -121,7 +121,7 @@ const config = {
           },
         ],
         // 底部版权信息
-        copyright: `Copyright © ${new Date().getFullYear()} Neige, All Rights Reserved.`,
+        copyright: `Copyright  ${new Date().getFullYear()} Neige, All Rights Reserved.`,
       },
       // 深浅主题
       prism: {
