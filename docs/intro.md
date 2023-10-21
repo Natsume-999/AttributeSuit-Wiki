@@ -14,5 +14,5 @@ sidebar_position: 1
 
 ## 安装
 
-确保硬前置正常运行后 将 “AS.zip” 压缩包进行解压。  
+确保前置正常运行将 “AttributeSuit.zip” 压缩包进行解压。  
 解压后放入 "plugins/Skript/scripts" 进行重启即可。  
