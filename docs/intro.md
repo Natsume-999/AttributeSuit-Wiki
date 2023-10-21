@@ -12,7 +12,7 @@ sidebar_position: 1
 
 :::caution  
 
-仅对 Paper 和 Spigot 版本 1.12+ 适配，不支持其他核心。  
+仅支持 Spigot 或衍生出的核心，适配 1.12.2+ 版本。  
 :::
 
 ## 安装
