@@ -4,13 +4,12 @@ sidebar_position: 1
 
 
 
-# 前言
+## 前言
 
 基于 Skript 和 Repuska (附属) 属性套装。  
 可选 Vul 或 PlaceholderAPI 作为软前置。  
 
 :::caution
-
 仅对 Paper 和 Spigot 版本 1.12+ 适配。  
 :::
 
