@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# 开始
+# 介绍
 
 基于 Skript 和 Repuska (附属) 的属性套装。  
 可选 Vulpecula 或 PlaceholderAPI 作为软前置。  
