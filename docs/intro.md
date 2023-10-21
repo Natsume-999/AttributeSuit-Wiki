@@ -8,7 +8,11 @@ sidebar_position: 1
 可选 Vul 或 PlaceholderAPI 作为软前置。  
 
 ## 兼容
- 
+
 兼容 Spigot 或 PaperSpigot 核心。  
 适配 1.12.2 - 1.19.2 版本。  
 
+## 安装
+
+确保硬前置正常运行后 将 “AS.zip” 压缩包进行解压。  
+解压后放入 "plugins/Skript/scripts" 进行重启即可。  
