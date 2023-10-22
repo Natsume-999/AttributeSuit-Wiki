@@ -2,16 +2,17 @@
 sidebar_position: 2
 ---
 
+# 结构介绍
+
+**主要为命令和文件结构说明，简略介绍。**  
+
 # 命令结构
 
-|  命令   | 说明  |
-|  ----  | ----  |
-| /attributeSuit reload  | 重载插件 |
+输入命令 [^/attributeSuit] 会获取插件帮助。  
+输入命令 [^/attributeSuit reload] 重载插件。
 
 ## 文件结构
 
-|  文件 & 文件夹   | 说明  |
-|  ----  | ----  |
-| suit/ | 套装类型目录 |
-| config.yml | 主配置文件 |
-| lang.yml | 语言文件 |
+目录 [^suit] 为处理套装流程。  
+文件 [^config] 为主配置文件。  
+文件 [^lang] 为语言配置文件。
