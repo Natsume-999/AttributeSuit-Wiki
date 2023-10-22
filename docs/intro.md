@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # 开始
 
-插件 `AttributeSuit` 是基于 [Skript]([https://www.runoob.com](https://github.com/SkriptLang/Skript/releases) 开发的属性套装系统，依赖 [Kether](https://www.yuque.com/sacredcraft/kether) 实现脚本功能。  
+插件 `AttributeSuit` 是基于 [Skript](https://github.com/SkriptLang/Skript/releases) 开发的属性套装系统，依赖 [Kether](https://www.yuque.com/sacredcraft/kether) 实现脚本功能。  
 
 * 大多异步实现，稳定不卡服  
 * 套装配置简洁，萌新也能懂  
