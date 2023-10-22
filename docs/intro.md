@@ -6,6 +6,7 @@ sidebar_position: 1
 
 插件 **AttributeSuit** 是基于 **Skript** 开发的属性套装系统，依赖 **Kether** 实现脚本功能。  
 
+* 
 * 大多异步实现，稳定不卡服  
 * 套装配置简洁，萌新也能懂  
 * 更新快，兼容诸多热门插件  
@@ -14,8 +15,8 @@ sidebar_position: 1
 
 ## 安装
 
-你 必须 安装 **Skript** 和 **Repuska** (附属) 插件来实现属性套装功能。  
-你 可以 安装 **Vulpecula** 和 **PlaceholderAPI** 插件做到脚本执行和变量解析。  
+你 必须 安装 Skript 和 Repuska (附属) 插件来实现属性套装功能。  
+你 可以 安装 Vulpecula 和 PlaceholderAPI 插件做到脚本执行和变量解析。  
 
 *缺少必须安装插件，会导致脚本出现未知问题。*  
 *缺少可以安装插件，会导致部分功能无法运行。*  
