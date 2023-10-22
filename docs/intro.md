@@ -14,8 +14,8 @@ sidebar_position: 1
 
 ## 安装
 
-你 必须 安装 Skript 和 Repuska (SUPERLIHB) 插件来实现属性套装功能。  
-你 可以 安装 Vulpecula 和 PlaceholderAPI 做到脚本和变量解析。  
+你 必须 安装 Skript 和 Repuska (附属) 插件来实现属性套装整体功能。  
+你 可以 安装 Vulpecula 和 PlaceholderAPI 插件做到脚本执行和变量解析。  
 
 缺少必须安装插件，会导致脚本出现未知问题。  
 缺少可以安装插件，会导致部分功能无法运行。
