@@ -27,7 +27,7 @@ sidebar_position: 1
 
 ## 联系
 
+[水煮胖娃](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=1876169842&website=www.oicqzone.com) [宣传帖](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=1876169842&website=www.oicqzone.com)
+
 如果你在插件遇到了问题，或有更好的建议。    
 请联系我，你的支持是我最大的动力。  
-
-[水煮胖娃](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=1876169842&website=www.oicqzone.com)
