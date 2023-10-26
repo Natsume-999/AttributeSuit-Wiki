@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'AttributeSuit',
-  tagline: '基于 AttributePlus 3x 套装',
+  tagline: '基于 Skript 和 Repuska 属性套装',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -88,16 +88,16 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: '查询文档',
+            title: '文档',
             items: [
               {
-                label: '跳转主页',
+                label: '主页',
                 to: '/intro',
               },
             ],
           },
           {
-            title: '联系我',
+            title: '联系',
             items: [
               {
                 label: '企鹅号',
