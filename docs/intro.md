@@ -30,10 +30,12 @@ sidebar_position: 1
 如果你是第一次接触 Skript 这一类的插件
 请仔细阅读此区域并按照步骤进行安装操作
 
-1. 下载上述必要前置
-2. 将上述前置放进 plugins 内启动服务器
-3. 解压 scripts 的文件放进 plugins/Skript/scripts 目录内
-4. 重启服务器
+* 下载前置
+    > 打开压缩包，找到 .jar 后缀文件。
+    > 将 .jar 文件放进 plugins 内重启。
+* 安装脚本
+    > 解压 scripts 目录内文件。
+    > 放入 plugins/Skript/scripts 目录内。
 
 ## 联系
 
