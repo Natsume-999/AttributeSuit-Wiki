@@ -16,12 +16,12 @@ sidebar_position: 1
 ## 前置
 
 1. 必备前置：
-    + 插件 Skript 2.5+ 脚本主体
-    + 插件 Skript 2.8+ 脚本附属
+    + 插件 `Skript` (2.5+) 脚本主体
+    + 插件 `Repuska` (2.8+) 脚本附属
 2. 可装前置：
-    + 插件 PlaceholderAPI 变量解析
-    + 插件 Vulpecula 执行 Kether 脚本
-    + 插件 MythicMobs 释放技能
+    + 插件 `PlaceholderAPI` 变量解析
+    + 插件 `Vulpecula` 执行 Kether 脚本
+    + 插件 `MythicMobs` 释放技能
 
 强烈推荐使用 **PaperSpigot** 或 **Spgiot** 以获得最流畅的体验!
 
