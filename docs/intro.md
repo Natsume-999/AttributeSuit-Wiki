@@ -13,13 +13,27 @@ sidebar_position: 1
 
 请勿以任何形式 **热重载** 插件，强行进行热重载会导致插件出现不可预料的问题。  
 
+## 前置
+
+1. 必备前置：
+    - 插件 Skript 2.5+ 脚本主体
+    - 插件 Skript 2.8+ 脚本附属
+2. 可装前置：
+    - 插件 PlaceholderAPI 变量解析
+    - 插件 Vulpecula 执行 Kether 脚本
+    - 插件 MythicMobs 释放技能
+
+强烈推荐使用 **PaperSpigot** 或 **Spgiot** 以获得最流畅的体验!
+
 ## 安装
 
-你 必须 安装 Skript 和 Repuska (附属) 插件来实现属性套装功能。  
-你 可以 安装 Vulpecula 和 PlaceholderAPI 插件做到脚本执行和变量解析。  
+如果你是第一次接触 Skript 这一类的插件
+请仔细阅读此区域并按照步骤进行安装操作
 
-*缺少必须安装插件，会导致脚本出现未知问题。*  
-*缺少可以安装插件，会导致部分功能无法运行。*  
+1. 下载上述必要前置
+2. 将上述前置放进 plugins 内启动服务器
+3. 解压 scripts 的文件放进 plugins/Skript/scripts 目录内
+4. 重启服务器
 
 ## 联系
 
