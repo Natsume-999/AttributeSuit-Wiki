@@ -34,8 +34,10 @@ sidebar_position: 1
     > 打开压缩包，找到 .jar 后缀文件。  
     > 将 .jar 文件放进 plugins 内重启。  
 * 安装脚本
-    > 解压 scripts 目录内文件。  
+    > 打开压缩包，并解压 scripts 目录内文件。  
     > 放入 plugins/Skript/scripts 目录内。  
+
+你需要正确完成该步骤，否则脚本无法正常运行。  
 
 ## 联系
 
