@@ -20,22 +20,22 @@ sidebar_position: 1
     + 插件 `Repuska` 脚本附属
 2. 可装前置：
     + 插件 `PlaceholderAPI` 变量解析
-    + 插件 `Vulpecula` 执行 Kether 脚本
+    + 插件 `Vulpecula` 执行 **Kether** 脚本
     + 插件 `MythicMobs` 释放技能
 
 强烈推荐使用 **PaperSpigot** 或 **Spgiot** 以获得最流畅的体验!
 
 ## 安装
 
-如果你是第一次接触 Skript 这一类的插件。  
+如果你是第一次接触 **Skript** 这一类的插件。  
 请仔细阅读此区域并按照步骤进行安装操作。  
 
 1. 下载前置
-    + 打开压缩包，找到 .jar 后缀文件。  
-    + 将 .jar 文件放进 plugins 内重启。  
+    + 打开压缩包，找到 .jar 后缀文件  
+    + 将 .jar 文件放进 plugins 内重启  
 2. 安装脚本
-    + 打开压缩包，并解压 scripts 目录内文件。  
-    + 放入 plugins/Skript/scripts 目录内。  
+    + 打开压缩包，并解压 scripts 目录内文件  
+    + 放入 plugins/Skript/scripts 目录内  
 
 你需要正确完成该步骤，否则脚本无法正常运行。  
 
