@@ -31,12 +31,12 @@ sidebar_position: 1
 请仔细阅读此区域并按照步骤进行安装操作。  
 
 1. 下载前置
-  * 打开压缩包，找到 .jar 后缀文件  
-  * 将 .jar 文件放进 plugins 内重启
+    + 打开压缩包，找到 .jar 后缀文件  
+    + 将 .jar 文件放进 plugins 内重启
 
 2. 安装脚本  
-  * 打开压缩包，并解压 scripts 文件夹 
-  * 放入 plugins/Skript/scripts 目录内重启
+    + 打开压缩包，并解压 scripts 文件夹 
+    + 放入 plugins/Skript/scripts 目录内重启
 
 你需要正确完成该步骤，否则脚本无法正常运行。  
 
