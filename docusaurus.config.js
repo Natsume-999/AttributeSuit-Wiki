@@ -92,7 +92,7 @@ const config = {
             items: [
               {
                 label: '主页',
-                to: 'https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=29PhAVtH_-OJB2oY4AQ2s5n58qFZHz1P&authKey=ak9fQYJXqEeFSklkTkNukxWsSkuL3JcgvJCrQ1oOs1K8JYsIIxqWcaKb3MAPQ2uF&noverify=0&group_code=319212109',
+                to: 'http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=9Y6YVTp_Fne3w6MJ_KnpU8to4pGpBtha&authKey=SwrBEYEvyHi382lvgnjdWaWEBO4fmpPLn0P27AkFWB1hoMyabvriG3YW4G2AUqUR&noverify=0&group_code=319212109',
               },
             ],
           },
