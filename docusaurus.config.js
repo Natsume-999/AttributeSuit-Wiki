@@ -88,16 +88,16 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: '文档',
+            title: '加入我们',
             items: [
               {
                 label: '主页',
-                to: '/intro',
+                to: 'https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=29PhAVtH_-OJB2oY4AQ2s5n58qFZHz1P&authKey=ak9fQYJXqEeFSklkTkNukxWsSkuL3JcgvJCrQ1oOs1K8JYsIIxqWcaKb3MAPQ2uF&noverify=0&group_code=319212109',
               },
             ],
           },
           {
-            title: '联系',
+            title: '提交建议',
             items: [
               {
                 label: '企鹅号',
