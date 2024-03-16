@@ -91,7 +91,7 @@ const config = {
             title: '加入我们',
             items: [
               {
-                label: '主页',
+                label: '企鹅群',
                 to: 'http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=9Y6YVTp_Fne3w6MJ_KnpU8to4pGpBtha&authKey=SwrBEYEvyHi382lvgnjdWaWEBO4fmpPLn0P27AkFWB1hoMyabvriG3YW4G2AUqUR&noverify=0&group_code=319212109',
               },
             ],
