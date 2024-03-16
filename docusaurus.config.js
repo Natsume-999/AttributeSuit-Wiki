@@ -14,12 +14,12 @@ const config = {
   url: 'https://Natsume-999.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/GreyFantasy-Wiki/',
+  baseUrl: '/AttributeSuit-Wiki/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'Natsume-999', // Usually your GitHub org/user name.
-  projectName: 'GreyFantasy-Wiki', // Usually your repo name.
+  projectName: 'AttributeSuit-Wiki', // Usually your repo name.
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
