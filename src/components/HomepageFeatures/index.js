@@ -13,11 +13,11 @@ const FeatureList = [
     ),
   },
   {
-    title: '免费使用',
+    title: '(∪.∪)',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        本脚本免费使用，不进行付费售卖
+        zzz...
       </>
     ),
   },
